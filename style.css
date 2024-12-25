@@ -1,0 +1,28 @@
+ .ana {
+    color: brown;
+  }
+  ul {
+    color: rgb(255, 0, 170);
+  }
+  ol {
+    color: #c10c0c;
+  }
+.ana2 {
+    color: rgba(255, 0, 0, 0.814);
+}
+p {
+    color: blueviolet;
+}
+p {
+    background-color: yellow;
+}
+body {
+    background-color: rgb(89, 0, 68);
+}
+li {
+    font-family: cursive;
+    text-align: center;
+    text-decoration-line: overline  ;
+    font-size: 20px;
+
+}
